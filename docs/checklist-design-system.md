@@ -251,17 +251,17 @@ docs/
 
 ### Fase 8: Navegacao
 
-- [ ] Criar pagina `/navigation`.
-- [ ] Sidebar com secoes.
-- [ ] Breadcrumb.
-- [ ] Tabs horizontais.
-- [ ] Tabs internas de contexto.
-- [ ] Navigation Menu.
-- [ ] Menubar.
-- [ ] Command Menu para busca rapida.
-- [ ] Dropdown de usuario.
-- [ ] Menu mobile.
-- [ ] Estado ativo consistente.
+- [x] Criar pagina `/navigation`.
+- [x] Sidebar com secoes.
+- [x] Breadcrumb.
+- [x] Tabs horizontais.
+- [x] Tabs internas de contexto.
+- [x] Navigation Menu.
+- [x] Menubar.
+- [x] Command Menu para busca rapida.
+- [x] Dropdown de usuario.
+- [x] Menu mobile.
+- [x] Estado ativo consistente.
 
 ### Fase 9: Feedback e estados
 

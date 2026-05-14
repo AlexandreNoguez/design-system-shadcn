@@ -68,7 +68,8 @@ pnpm start
 - [x] Overlays e interacoes implementados.
 - [x] Formularios com validacao implementados.
 - [x] Tabelas e visualizacao de dados implementadas.
+- [x] Padroes de navegacao implementados.
 
 ## Proxima fase
 
-Construir os padroes de navegacao com tabs, menus, command menu, dropdown de usuario e estados ativos.
+Construir feedback e estados com toasts, alerts, skeletons, empty states, loading e error states.
