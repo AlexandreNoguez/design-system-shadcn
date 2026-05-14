@@ -265,20 +265,20 @@ docs/
 
 ### Fase 9: Feedback e estados
 
-- [ ] Criar pagina `/feedback`.
-- [ ] Toast de sucesso.
-- [ ] Toast de erro.
-- [ ] Toast de aviso.
-- [ ] Toast com acao.
-- [ ] Alert informativo.
-- [ ] Alert de erro.
-- [ ] Alert destrutivo.
-- [ ] Skeleton de card.
-- [ ] Skeleton de tabela.
-- [ ] Spinner em botao.
-- [ ] Empty state operacional.
-- [ ] Empty state com acao primaria.
-- [ ] Error state com acao de tentar novamente.
+- [x] Criar pagina `/feedback`.
+- [x] Toast de sucesso.
+- [x] Toast de erro.
+- [x] Toast de aviso.
+- [x] Toast com acao.
+- [x] Alert informativo.
+- [x] Alert de erro.
+- [x] Alert destrutivo.
+- [x] Skeleton de card.
+- [x] Skeleton de tabela.
+- [x] Spinner em botao.
+- [x] Empty state operacional.
+- [x] Empty state com acao primaria.
+- [x] Error state com acao de tentar novamente.
 
 ### Fase 10: Padroes de telas reais
 

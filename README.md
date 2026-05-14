@@ -69,7 +69,8 @@ pnpm start
 - [x] Formularios com validacao implementados.
 - [x] Tabelas e visualizacao de dados implementadas.
 - [x] Padroes de navegacao implementados.
+- [x] Feedback e estados implementados.
 
 ## Proxima fase
 
-Construir feedback e estados com toasts, alerts, skeletons, empty states, loading e error states.
+Construir padroes de telas reais com dashboard, listagem, detalhes, criacao, edicao e configuracoes.
