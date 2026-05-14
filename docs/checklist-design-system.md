@@ -197,20 +197,20 @@ docs/
 
 ### Fase 5: Overlays e interacoes
 
-- [ ] Dialog simples.
-- [ ] Dialog com formulario.
-- [ ] Alert Dialog de confirmacao.
-- [ ] Alert Dialog destrutivo.
-- [ ] Sheet lateral.
-- [ ] Drawer para mobile.
-- [ ] Popover com conteudo curto.
-- [ ] Popover com acoes.
-- [ ] Dropdown Menu com grupos.
-- [ ] Context Menu.
-- [ ] Tooltip em botoes de icone.
-- [ ] Validar fechamento por teclado.
-- [ ] Validar foco inicial em modais.
-- [ ] Criar pagina `/overlays`.
+- [x] Dialog simples.
+- [x] Dialog com formulario.
+- [x] Alert Dialog de confirmacao.
+- [x] Alert Dialog destrutivo.
+- [x] Sheet lateral.
+- [x] Drawer para mobile.
+- [x] Popover com conteudo curto.
+- [x] Popover com acoes.
+- [x] Dropdown Menu com grupos.
+- [x] Context Menu.
+- [x] Tooltip em botoes de icone.
+- [x] Validar fechamento por teclado.
+- [x] Validar foco inicial em modais.
+- [x] Criar pagina `/overlays`.
 
 ### Fase 6: Formularios
 

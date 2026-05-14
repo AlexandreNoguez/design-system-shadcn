@@ -65,7 +65,8 @@ pnpm start
 - [x] Layout navegavel do showroom implementado.
 - [x] Identidade visual aplicada.
 - [x] Galeria de componentes base implementada.
+- [x] Overlays e interacoes implementados.
 
 ## Proxima fase
 
-Construir overlays e interacoes com dialogs, alert dialogs, sheets, drawers, popovers e menus contextuais.
+Construir formularios com React Hook Form, Zod, validacao, estados de envio e exemplos em pagina e modal.
