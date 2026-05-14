@@ -163,37 +163,37 @@ docs/
 
 ### Fase 4: Componentes base
 
-- [ ] Button com variants.
-- [ ] Button com sizes.
-- [ ] Button com loading.
-- [ ] Icon Button com tooltip.
-- [ ] Badge.
-- [ ] Card.
-- [ ] Input.
-- [ ] Textarea.
-- [ ] Select.
-- [ ] Native Select.
-- [ ] Checkbox.
-- [ ] Radio Group.
-- [ ] Switch.
-- [ ] Slider.
-- [ ] Tabs.
-- [ ] Accordion.
-- [ ] Tooltip.
-- [ ] Dropdown Menu.
-- [ ] Command Menu.
-- [ ] Breadcrumb.
-- [ ] Pagination.
-- [ ] Avatar.
-- [ ] Progress.
-- [ ] Skeleton.
-- [ ] Alert.
-- [ ] Separator.
-- [ ] Empty state.
-- [ ] Spinner.
-- [ ] Toast com Sonner.
-- [ ] Criar pagina `/components`.
-- [ ] Exibir estados comuns de cada componente.
+- [x] Button com variants.
+- [x] Button com sizes.
+- [x] Button com loading.
+- [x] Icon Button com tooltip.
+- [x] Badge.
+- [x] Card.
+- [x] Input.
+- [x] Textarea.
+- [x] Select.
+- [x] Native Select.
+- [x] Checkbox.
+- [x] Radio Group.
+- [x] Switch.
+- [x] Slider.
+- [x] Tabs.
+- [x] Accordion.
+- [x] Tooltip.
+- [x] Dropdown Menu.
+- [x] Command Menu.
+- [x] Breadcrumb.
+- [x] Pagination.
+- [x] Avatar.
+- [x] Progress.
+- [x] Skeleton.
+- [x] Alert.
+- [x] Separator.
+- [x] Empty state.
+- [x] Spinner.
+- [x] Toast com Sonner.
+- [x] Criar pagina `/components`.
+- [x] Exibir estados comuns de cada componente.
 
 ### Fase 5: Overlays e interacoes
 

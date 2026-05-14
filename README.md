@@ -64,7 +64,8 @@ pnpm start
 - [x] Rotas placeholder do showroom criadas.
 - [x] Layout navegavel do showroom implementado.
 - [x] Identidade visual aplicada.
+- [x] Galeria de componentes base implementada.
 
 ## Proxima fase
 
-Construir a galeria de componentes base com estados, variacoes e exemplos de uso.
+Construir overlays e interacoes com dialogs, alert dialogs, sheets, drawers, popovers e menus contextuais.

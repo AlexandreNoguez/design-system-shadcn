@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { ShowroomShell } from "@/components/layout/showroom-shell";
 import { ThemeProvider } from "@/components/theme-provider";
+import { Toaster } from "@/components/ui/sonner";
+import { TooltipProvider } from "@/components/ui/tooltip";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -38,7 +40,10 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <ShowroomShell>{children}</ShowroomShell>
+          <TooltipProvider>
+            <ShowroomShell>{children}</ShowroomShell>
+            <Toaster richColors closeButton />
+          </TooltipProvider>
         </ThemeProvider>
       </body>
     </html>
