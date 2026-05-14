@@ -233,21 +233,21 @@ docs/
 
 ### Fase 7: Tabelas e dados
 
-- [ ] Criar pagina `/data-display`.
-- [ ] Tabela basica.
-- [ ] Tabela com ordenacao.
-- [ ] Tabela com busca.
-- [ ] Tabela com filtros.
-- [ ] Tabela com paginacao.
-- [ ] Tabela com selecao de linhas.
-- [ ] Tabela com acoes por linha.
-- [ ] Tabela com visibilidade de colunas.
-- [ ] Badges de status.
-- [ ] Empty state.
-- [ ] Loading state.
-- [ ] Error state.
-- [ ] Dados mockados realistas.
-- [ ] Layout responsivo para tabela em telas menores.
+- [x] Criar pagina `/data-display`.
+- [x] Tabela basica.
+- [x] Tabela com ordenacao.
+- [x] Tabela com busca.
+- [x] Tabela com filtros.
+- [x] Tabela com paginacao.
+- [x] Tabela com selecao de linhas.
+- [x] Tabela com acoes por linha.
+- [x] Tabela com visibilidade de colunas.
+- [x] Badges de status.
+- [x] Empty state.
+- [x] Loading state.
+- [x] Error state.
+- [x] Dados mockados realistas.
+- [x] Layout responsivo para tabela em telas menores.
 
 ### Fase 8: Navegacao
 

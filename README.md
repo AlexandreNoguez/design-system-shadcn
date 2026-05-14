@@ -67,7 +67,8 @@ pnpm start
 - [x] Galeria de componentes base implementada.
 - [x] Overlays e interacoes implementados.
 - [x] Formularios com validacao implementados.
+- [x] Tabelas e visualizacao de dados implementadas.
 
 ## Proxima fase
 
-Construir tabelas e visualizacao de dados com busca, filtros, ordenacao, paginacao e estados.
+Construir os padroes de navegacao com tabs, menus, command menu, dropdown de usuario e estados ativos.
