@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Shadcn Design System Showroom
 
-## Getting Started
+Projeto de prototipo navegavel para apresentar uma identidade visual moderna usando Next.js, shadcn/ui e boas praticas de UI/UX.
 
-First, run the development server:
+O objetivo e criar um showroom funcional que permita demonstrar para lideranca:
+
+- A base visual da aplicacao em light e dark mode.
+- Os componentes mais comuns de produto.
+- Padroes de telas reais, como dashboard, listagem, formulario e detalhes.
+- Consistencia visual por meio de tokens, temas e componentes reutilizaveis.
+- Viabilidade tecnica da stack proposta para o novo front-end.
+
+## Stack atual
+
+- Next.js 16 com App Router.
+- React 19.
+- TypeScript.
+- Tailwind CSS 4.
+- shadcn/ui com preset `radix-nova`.
+- next-themes.
+- React Hook Form e Zod.
+- TanStack Table.
+- Sonner.
+- Motion.
+- Recharts.
+
+## Documentacao principal
+
+Use o checklist como guia de execucao do projeto:
+
+- [Checklist do Design System](./docs/checklist-design-system.md)
+- [Visao original do showroom](./docs/showroom-overview.md)
+
+## Como rodar
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acesse [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+pnpm dev
+pnpm lint
+pnpm build
+pnpm start
+```
 
-## Learn More
+## Como vamos trabalhar
 
-To learn more about Next.js, take a look at the following resources:
+1. Consultar o checklist antes de cada etapa.
+2. Implementar uma fase por vez.
+3. Marcar os itens concluidos no documento.
+4. Validar navegacao, responsividade, dark mode e qualidade visual antes de avancar.
+5. Manter o showroom sempre apresentavel para demonstracoes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Estado atual
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [x] Planejamento documentado.
+- [x] Aplicacao Next.js criada.
+- [x] shadcn/ui configurado.
+- [x] Rotas placeholder do showroom criadas.
+- [x] Layout navegavel do showroom implementado.
+- [x] Identidade visual aplicada.
 
-## Deploy on Vercel
+## Proxima fase
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Construir a galeria de componentes base com estados, variacoes e exemplos de uso.

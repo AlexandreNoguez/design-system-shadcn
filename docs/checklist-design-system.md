@@ -100,66 +100,66 @@ docs/
 - [x] Definir mapa de navegacao.
 - [x] Definir criterio de aceite do MVP.
 - [ ] Validar escopo com gerente ou responsavel tecnico.
-- [ ] Definir nome temporario da identidade visual.
-- [ ] Definir publico-alvo principal da aplicacao.
-- [ ] Definir tom visual desejado: mais executivo, operacional, financeiro, tecnico ou institucional.
+- [x] Definir nome temporario da identidade visual.
+- [x] Definir publico-alvo principal da aplicacao.
+- [x] Definir tom visual desejado: mais executivo, operacional, financeiro, tecnico ou institucional.
 
 ### Fase 1: Fundacao tecnica
 
-- [ ] Criar aplicacao Next.js com TypeScript.
-- [ ] Configurar App Router.
-- [ ] Configurar Tailwind CSS.
-- [ ] Configurar ESLint.
-- [ ] Configurar alias de imports.
-- [ ] Instalar shadcn/ui.
-- [ ] Configurar `components.json`.
-- [ ] Configurar estrutura de pastas.
-- [ ] Instalar lucide-react.
-- [ ] Instalar next-themes.
-- [ ] Instalar React Hook Form.
-- [ ] Instalar Zod.
-- [ ] Instalar TanStack Table.
-- [ ] Instalar Sonner.
-- [ ] Instalar Motion.
-- [ ] Rodar primeira build local.
+- [x] Criar aplicacao Next.js com TypeScript.
+- [x] Configurar App Router.
+- [x] Configurar Tailwind CSS.
+- [x] Configurar ESLint.
+- [x] Configurar alias de imports.
+- [x] Instalar shadcn/ui.
+- [x] Configurar `components.json`.
+- [x] Configurar estrutura de pastas.
+- [x] Instalar lucide-react.
+- [x] Instalar next-themes.
+- [x] Instalar React Hook Form.
+- [x] Instalar Zod.
+- [x] Instalar TanStack Table.
+- [x] Instalar Sonner.
+- [x] Instalar Motion.
+- [x] Rodar primeira build local.
 
 ### Fase 2: Layout do showroom
 
-- [ ] Criar layout raiz da aplicacao.
-- [ ] Criar sidebar de navegacao.
-- [ ] Criar header com titulo da secao atual.
-- [ ] Criar botao de alternancia de tema.
-- [ ] Criar estrutura responsiva para mobile.
-- [ ] Criar breadcrumbs.
-- [ ] Criar area principal de conteudo.
-- [ ] Criar componente de pagina para secoes do showroom.
-- [ ] Criar navegacao ativa na sidebar.
-- [ ] Garantir que todas as rotas principais carregam sem erro.
+- [x] Criar layout raiz da aplicacao.
+- [x] Criar sidebar de navegacao.
+- [x] Criar header com titulo da secao atual.
+- [x] Criar botao de alternancia de tema.
+- [x] Criar estrutura responsiva para mobile.
+- [x] Criar breadcrumbs.
+- [x] Criar area principal de conteudo.
+- [x] Criar componente de pagina para secoes do showroom.
+- [x] Criar navegacao ativa na sidebar.
+- [x] Garantir que todas as rotas principais carregam sem erro.
 
 ### Fase 3: Identidade visual
 
-- [ ] Definir paleta light.
-- [ ] Definir paleta dark.
-- [ ] Definir tokens semanticos de cor.
-- [ ] Definir `background` e `foreground`.
-- [ ] Definir `primary` e `primary-foreground`.
-- [ ] Definir `secondary` e `secondary-foreground`.
-- [ ] Definir `muted` e `muted-foreground`.
-- [ ] Definir `accent` e `accent-foreground`.
-- [ ] Definir `destructive`.
-- [ ] Definir `border`, `input` e `ring`.
-- [ ] Definir tokens de sidebar.
-- [ ] Definir tokens de chart.
-- [ ] Definir escala de radius.
-- [ ] Definir sombras e elevacao.
-- [ ] Definir familia tipografica.
-- [ ] Definir escala tipografica.
-- [ ] Criar pagina `/brand`.
-- [ ] Criar blocos de preview de cores.
-- [ ] Criar bloco de tipografia.
-- [ ] Criar bloco de radius.
-- [ ] Criar bloco de icones.
-- [ ] Criar bloco de sombras.
+- [x] Definir paleta light.
+- [x] Definir paleta dark.
+- [x] Definir tokens semanticos de cor.
+- [x] Definir `background` e `foreground`.
+- [x] Definir `primary` e `primary-foreground`.
+- [x] Definir `secondary` e `secondary-foreground`.
+- [x] Definir `muted` e `muted-foreground`.
+- [x] Definir `accent` e `accent-foreground`.
+- [x] Definir `destructive`.
+- [x] Definir `border`, `input` e `ring`.
+- [x] Definir tokens de sidebar.
+- [x] Definir tokens de chart.
+- [x] Definir escala de radius.
+- [x] Definir sombras e elevacao.
+- [x] Definir familia tipografica.
+- [x] Definir escala tipografica.
+- [x] Criar pagina `/brand`.
+- [x] Criar blocos de preview de cores.
+- [x] Criar bloco de tipografia.
+- [x] Criar bloco de radius.
+- [x] Criar bloco de icones.
+- [x] Criar bloco de sombras.
 
 ### Fase 4: Componentes base
 
@@ -403,4 +403,3 @@ O MVP deve conter pelo menos:
 - Evitar remover itens sem registrar o motivo.
 - Ao final de cada fase, revisar se o showroom continua navegavel.
 - Antes de apresentar, conferir o criterio de aceite do MVP.
-
