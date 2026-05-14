@@ -66,7 +66,8 @@ pnpm start
 - [x] Identidade visual aplicada.
 - [x] Galeria de componentes base implementada.
 - [x] Overlays e interacoes implementados.
+- [x] Formularios com validacao implementados.
 
 ## Proxima fase
 
-Construir formularios com React Hook Form, Zod, validacao, estados de envio e exemplos em pagina e modal.
+Construir tabelas e visualizacao de dados com busca, filtros, ordenacao, paginacao e estados.

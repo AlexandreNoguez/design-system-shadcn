@@ -214,22 +214,22 @@ docs/
 
 ### Fase 6: Formularios
 
-- [ ] Criar pagina `/forms`.
-- [ ] Formulario simples com React Hook Form.
-- [ ] Schema de validacao com Zod.
-- [ ] Mensagens de erro padronizadas.
-- [ ] Campos obrigatorios e opcionais.
-- [ ] Input com ajuda contextual.
-- [ ] Select com validacao.
-- [ ] Checkbox com validacao.
-- [ ] Radio Group com validacao.
-- [ ] Switch em formulario.
-- [ ] Formulario em modal.
-- [ ] Formulario longo em layout de pagina.
-- [ ] Estado de envio.
-- [ ] Estado de sucesso.
-- [ ] Estado de erro.
-- [ ] Exemplo de confirmacao antes de descartar alteracoes.
+- [x] Criar pagina `/forms`.
+- [x] Formulario simples com React Hook Form.
+- [x] Schema de validacao com Zod.
+- [x] Mensagens de erro padronizadas.
+- [x] Campos obrigatorios e opcionais.
+- [x] Input com ajuda contextual.
+- [x] Select com validacao.
+- [x] Checkbox com validacao.
+- [x] Radio Group com validacao.
+- [x] Switch em formulario.
+- [x] Formulario em modal.
+- [x] Formulario longo em layout de pagina.
+- [x] Estado de envio.
+- [x] Estado de sucesso.
+- [x] Estado de erro.
+- [x] Exemplo de confirmacao antes de descartar alteracoes.
 
 ### Fase 7: Tabelas e dados
 
