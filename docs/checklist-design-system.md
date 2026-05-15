@@ -282,18 +282,18 @@ docs/
 
 ### Fase 10: Padroes de telas reais
 
-- [ ] Criar pagina `/patterns`.
-- [ ] Dashboard com metricas.
-- [ ] Dashboard com grafico.
-- [ ] Listagem administrativa.
-- [ ] Tela de detalhes.
-- [ ] Tela de criacao.
-- [ ] Tela de edicao.
-- [ ] Tela de configuracoes.
-- [ ] Tela com tabs internas.
-- [ ] Tela com filtros avancados.
-- [ ] Fluxo de confirmacao destrutiva.
-- [ ] Fluxo de criacao com sucesso.
+- [x] Criar pagina `/patterns`.
+- [x] Dashboard com metricas.
+- [x] Dashboard com grafico.
+- [x] Listagem administrativa.
+- [x] Tela de detalhes.
+- [x] Tela de criacao.
+- [x] Tela de edicao.
+- [x] Tela de configuracoes.
+- [x] Tela com tabs internas.
+- [x] Tela com filtros avancados.
+- [x] Fluxo de confirmacao destrutiva.
+- [x] Fluxo de criacao com sucesso.
 
 ### Fase 11: Qualidade premium
 
